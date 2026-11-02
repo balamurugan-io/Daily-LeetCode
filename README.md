@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -57,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
