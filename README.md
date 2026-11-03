@@ -50,6 +50,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -103,4 +104,5 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/balamurugan-io/Daily-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
